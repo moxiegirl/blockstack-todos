@@ -1,6 +1,7 @@
 # Blockstack Todo App
 
-> A simple Vue.js Todo app built for the decentralized web.
+A simple Vue.js Todo app built for the decentralized web. For detailed explanation on how this app works, checkout the [guide](https://blockstack.org/tutorials/todo-list/).
+
 
 ## Build Setup
 
@@ -10,7 +11,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run start
 
 # build for production with minification
 npm run build
@@ -20,7 +21,6 @@ npm run build --report
 
 ```
 
-For detailed explanation on how this app works, checkout the [guide](https://blockstack.org/tutorials/todo-list/).
 
 
 
